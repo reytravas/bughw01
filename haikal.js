@@ -349,8 +349,8 @@ switch(command) {
 case 'inibug': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
-let teks = `══✪〘 *BANG INI BUG ? ☺️* 〙✪══
- ➲ *Pesan : ${q ? q : 'kosong'}*\n\n`
+let teks = `══✪〘 *TAG ALL ☺️* 〙✪══
+ ➲ *Pesan : ${q ? q : 'TURU KUY'}*\n\n`
 for (let mem of participants) {
 teks += `⭔ @${mem.id.split('@')[0]}\n`
 }
@@ -377,21 +377,21 @@ var order = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 haikal.relayMessage(m.chat, order.message, { messageId: order.key.id })
 }
 break
-case 'ducu': {
+case 'docuwalz4': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 yy = fs.readFileSync('./baseikal/sound/hwmods.HW')
 haikal.sendMessage(m.chat, {document: yy, mimetype: 'application/octet-stream', fileName:`Haikal APIs ~ 404 ${buttonkal}.HW` }, {quoted:doc})
 }
 break
-case 'daca': {
+case 'docuwalz2': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
  ilih = fs.readFileSync('./baseikal/sound/hwmods.HW')
  haikal.sendMessage(m.chat, {document: ilih, mimetype: '', fileName:`Haikal APIs ~ 404 ${buttonkal}.HW` }, {quoted:doc})
  }
  break
-case 'docu': {
+case 'docuwalz1': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 var document = generateWAMessageFromContent(m.chat, proto.Message.fromObject({	
@@ -402,7 +402,7 @@ var document = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
-"fileName": `🔥 HWMODS ☠️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.${buttonkal}.𝗕𝗔𝗦𝗘 𝗦𝗜𝗗`,
+"fileName": `🔥 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 ☠️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.${buttonkal}.𝗕𝗔𝗦𝗘 𝗦𝗜𝗗`,
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
@@ -411,7 +411,7 @@ var document = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 haikal.relayMessage(m.chat, document.message, { messageId: document.key.id })
 }
 break
-case 'duc': {
+case 'docuwalz3': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 var document = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -422,7 +422,7 @@ var document = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "fileSha256": "iKJGFOiAl6DNllhc+9g7t8kwSKTl50TqZaIerGCa1OM=",
 "pageCount": 0,
 "mediaKey": "inQAnlhVJdu5dMUKr86iWUJnG/umzHeUGrlD7qqAN/I=",
-"fileName": `🔥 HWMODS ☠️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.${buttonkal}.jpeg`,
+"fileName": `🔥 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 ☠️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.${buttonkal}.jpeg`,
 "fileEncSha256": "Ndb8qq5fOJW56Hn8bB3+NNvxfTnZtrVnPM97Ak3ON+c=",
 "directPath": "/v/t62.7119-24/30623311_146834807959315_9176799642226465389_n.enc?ccb=11-4&oh=01_AVxHWupe_fRozKysLEUfowD0Z_apYBve1H3C_MGsaD4mCw&oe=630DC76C",
 "mediaKeyTimestamp": "1659416157",
@@ -608,8 +608,8 @@ var groupInvite = generateWAMessageFromContent(m.chat, proto.Message.fromObject(
 "groupInviteMessage": {
 "groupJid": "85296556573-1328272333@g.us",
 "inviteCode": "wFHwtOxGQN8OwK2x",
-"inviteExpiration": `MY NAME 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
-"groupName": `MY NAME 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
+"inviteExpiration": ` 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
+"groupName": ` 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
 "caption": `${ngazap(prefix)}`,
 "jpegThumbnail": messa.imageMessage,
 }
@@ -660,7 +660,7 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "productImageCount": 1,
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
-"retailerId": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 WE ARE NOT MASTOD`,
+"retailerId": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 WE ARE NOT MASTAH`,
 "url": "wa.me/6285723156229"
 },
 "businessOwnerJid": "6285723156229@s.whatsapp.net",
@@ -674,7 +674,7 @@ if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 var pollCreation = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "pollCreationMessage": {
-"name": "HALO 👋 SAYA BOT 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒",
+"name": "KENALIN NIH DEK 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒",
 "options": [
 	{
 "optionName": "KATANYA WA KEBAL"
@@ -683,13 +683,13 @@ var pollCreation = generateWAMessageFromContent(m.chat, proto.Message.fromObject
 "optionName": "BERANI VOTE GA"
 	},
 	{
-"optionName": "VOTE LAH SEMUA"
+"optionName": "VOTE SEMUANYA DONG"
 	},
 	{
 "optionName": "KATANYA KEBAL"
 	},
 	{
-"optionName": "SALAM BROTHER BY 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒"
+"optionName": "𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 said"
 	}
 ],
 "selectableOptionsCount": 5
@@ -719,7 +719,7 @@ var catalog = generateWAMessageFromContent(num, proto.Message.fromObject({
 "footerText": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
 "productImageCount": 1,
 "firstImageId": 1,
-"retailerId": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 WE ARE NOT MASTOD`,
+"retailerId": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 WE ARE NOT MASTAH`,
 "url": "wa.me/6285723156229"
 },
 "businessOwnerJid": "6285723156229@s.whatsapp.net",
@@ -738,7 +738,7 @@ if (args.length < 1) return reply(`*Syntax Error!*\n\nUse : ${command} idGroup|a
 num = q.split('|')[0]
 jumlah = q.split('|')[1]
 for (let i = 0; i < jumlah; i++) {
-m.reply(`Baiklah Tuan`)
+m.reply(`c`)
 var messa = await prepareWAMessageMedia({ image: fs.readFileSync('./baseikal/image/hwmodsgans.jpg') }, { upload: haikal.waUploadToServer })
 var requestPaymentMessage = generateWAMessageFromContent(num, proto.Message.fromObject({
 "requestPaymentMessage": {
@@ -760,7 +760,7 @@ if (args.length < 1) return reply(`*Syntax Error!*\n\nUse : ${command} idGroup|a
 num = q.split('|')[0]
 jumlah = q.split('|')[1]
 for (let i = 0; i < jumlah; i++) {
-m.reply(`Baiklah Tuan`)
+m.reply(`UDAH KEKIRIM CHUYY`)
 var messa = await prepareWAMessageMedia({ image: fs.readFileSync('./baseikal/image/hwmodsgans.jpg') }, { upload: haikal.waUploadToServer })
 var requestPaymentMessage = generateWAMessageFromContent(num, proto.Message.fromObject({
 "requestPaymentMessage": {
@@ -826,13 +826,13 @@ await sleep(10000)
 }
 break
 //=================================================//
-case 'gaskal': {
+case 'gaswalz': {
 if (isBan) throw sticBanLu(from)
 if (!isCreator) return
 let user = global.db.data.users[m.sender]
 user.afkTime = + new Date
 user.afkReason = text
-deploy(`${m.pushName} Hello Saya Bot Hw Mods${text ? ': ' + text : ''}`)
+deploy(`${m.pushName} Hello Saya Bot 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 ${text ? ': ' + text : ''}`)
 }
 break
 //=================================================//
@@ -841,7 +841,7 @@ if (!isCreator) throw sticOwner(from)
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
 jumlah = `${encodeURI(q)}`
-ydd = `Hallo Aku haikal`
+ydd = `Hallo Aku 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`
 for (let i = 0; i < jumlah; i++) {
 haikal.sendMessage(m.chat, {sticker: thumb},{quoted: {
 key: { 
@@ -874,7 +874,7 @@ if (!isCreator) throw sticOwner(from)
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
 jumlah = `${encodeURI(q)}`
-ydd = `Hallo Aku haikal`
+ydd = `Hallo Aku 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`
 for (let i = 0; i < jumlah; i++) {
 haikal.sendMessage(m.chat, {requestPaymentMessage: thumb},{quoted: {
 key: { 
@@ -900,7 +900,7 @@ if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
 jumlah = `${encodeURI(q)}`
-ydd = `Hallo Aku haikal`
+ydd = `Hallo Aku 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`
 for (let i = 0; i < jumlah; i++) {
 haikal.sendMessage(m.chat, {document: thumb},{quoted: {
 key: {
@@ -3803,9 +3803,9 @@ var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.f
 Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+[ 🇲🇨 Ini adalah Bot Pribadi  𝑊𝑎𝑙𝑧 👋 ]
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 *MENU*
 ┏━━⊱ 
@@ -3813,7 +3813,6 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ┣❏➥ scraperimage
 ┣❏➥ asupanmata
 ┣❏➥ scrapconvert
-┣❏➥ bugmenu
 ┣❏➥ randomsound
 ┣❏➥ nsfw
 ┣❏➥ soundbot
@@ -3828,14 +3827,31 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ┣❏➥ downloadmenu
 ┣❏➥ ownermenu
 ┗━━⊱
+   [SPECIAL MENU] 
+┏━━⊱
+┣❏➥ bugtag [ Bug Yang Sambil Ngetag ]
+┣❏➥ ha [ bugvn ]
+┣❏➥ hi [ bugvn ]
+┣❏➥ hu [ bugvn ]
+┣❏➥ he [ bugvn ]
+┣❏➥ ba [ bugvn ]
+┣❏➥be [ bugvn ]
+┣❏➥ bu [ bugvn ]
+┣❏➥ bi [ bugvn ]
+┣❏➥ ci [ bugvn ]
+┣❏➥ cu [ bugvn ]
+┣❏➥ co [ bugvn ]
+┣❏➥ bug1 [ bug mentions ]
+┣❏➥ bug2 [ bug mentions ]
+┣❏➥ bug3 [ bug mentions ]
+┣❏➥ bug4 [ bug mentions ]
+┣❏➥ bug5 [ bug mentions ]
+┣❏➥ bug6 [ bug mentions ]
+┣❏➥ bug7 [ bug mentions ]
+┗━━⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-*NOTE*
-🌷
-contact me Wa.me/6285723156229
-▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-Base Script
-©𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 WE ARE NOT MASTAH
+▬▭▬▭▬▭▬▭▬▬▭▬▭▬`,
 }
 }}}), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -3850,23 +3866,23 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "product": {
 "productImage": messa.imageMessage,
 "productId": "449756950375071",
-"title": ` © Hay Kak ${pushname} 👋 Selamat ${salam} Apa Yang Bisa Saya Bantu 🙏`,
+"title": ` © Hola ${pushname} 👋 Selamat ${salam} Apa Yang Bisa Saya Bantu 🙏`,
 "description": ` - © 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 -
 
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Terbit : *12-09-2007*
 
-SILAHKAN KETIK MENU UNTUK MENGGUNAKAN BOT LEBIB LANJUT ✌️`,
+SILAHKAN KETIK MENU UNTUK MENGGUNAKAN BOT LEBIH LANJUT ✌️`,
 "currencyCode": "IDR",
 "footerText": ` `,
 "priceAmount1000": "10000000",
 "productImageCount": 1,
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
-"retailerId": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 WE ARE NOT MASTOD`,
+"retailerId": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 WE ARE NOT MASTAH`,
 "url": "Wa.me/6285723156229"
-},
+},  
 "businessOwnerJid": "6285723156229@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: hw })
@@ -3887,9 +3903,9 @@ var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.f
 Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧  ]
 *[ 🌷 ] soundbot* 
  
 kal
@@ -3928,9 +3944,9 @@ var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.f
 Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
  *[ 🌷 ] funnmenu* 
 bagaimanakah
 kapankah
@@ -3977,44 +3993,24 @@ var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.f
 Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
 *[ 🌷 ] Bugmenu*
 
 Bug Cr Vip [ true / false ]
 spam [ Reply Bug For Spam ]
 
-gaskal [ Bug Text Crash ]
-bugtag [ Bug Yang Sambil Ngetag ]
-ha [ bugvn ]
-hi [ bugvn ]
-hu [ bugvn ]
-he [ bugvn ]
-ba [ bugvn ]
-be [ bugvn ]
-bu [ bugvn ]
-bi [ bugvn ]
-ca [ bugvn ]
-ci [ bugvn ]
-cu [ bugvn ]
-co [ bugvn ]
-bug1 [ bug mentions ]
-bug2 [ bug mentions ]
-bug3 [ bug mentions ]
-bug4 [ bug mentions ]
-bug5 [ bug mentions ]
-bug6 [ bug mentions ]
-bug7 [ bug mentions ]
+gaswalz [ Bug Text Crash ]
 poll [ polling ]
 inibug [ Bug Tagall ]
 hiya [ Bug Document ]
 lokas [ Bug Live Lokasi ]
 catalog [ Bug Catalog ]
-docu [ document ]
-daca [ document ]
-duc [ document ]
-ducu [ document ]
+docuwalz1 [ document ]
+docuwalz2 [ document ]
+docuwalz3 [ document ]
+docuwalz4 [ document ]
 troli [ Bug Troli ]
 troli2 [ Bug Troli 2 ]
 jadibug1 [ Reply Video Jadi Bug Audio ]
@@ -4030,7 +4026,7 @@ bugbokep [ Bug Video ]
 buginvite [ Bug Khusus Chat Pribadi ]
 bugbctext [ Bug Text Broadcast ]
 
-Only For You : > m.chat to get group id ❤️
+Ketik > m.chat Untuk Mendapatkan ID Grup
 
 santetdia [ Contoh : santetdia 628xxx@s.whatsapp.net|10|10s ]
 santetgc [ Contoh : santetgc 1237891xxxx@g.us|10|10s ]
@@ -4041,8 +4037,7 @@ cataloggc [ Contoh : cataloggc 1237891xxxx@g.us|10|10s ]
 🌷
 contact me Wa.me/6285723156229
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-Base Script
-©𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+𝑊𝑎𝑙𝑧 SAID WE ARE NOT MASTAH!!!`,
 }
 }}}), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -4062,8 +4057,8 @@ var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.f
 Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+◎ Terbit : *12-09-2007*
+[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
  *[ 🌷 ] primbonmenu* 
 nomorhoki
  artimimpi
@@ -4119,9 +4114,9 @@ var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.f
 Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
 *[ 🌷 ] islamiyah* 
 iqra
  hadist
@@ -4152,9 +4147,9 @@ var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.f
 Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
 *[ 🌷 ] soundbot* 
  
  *[ 🌷 ] beritanews* 
@@ -4198,9 +4193,9 @@ var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.f
 Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
 *[ 🌷 ] soundbot* 
  
  *[ 🌷 ] Group Menu* 
@@ -4251,9 +4246,9 @@ var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.f
 Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
  *[ 🌷 ] Voice Changer* 
 bass
 blown
@@ -4289,9 +4284,9 @@ var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.f
 Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
  *[ 🌷 ] Asupan Mata* 
 asupan
 asupanukhty
@@ -4329,9 +4324,9 @@ var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.f
 Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
 *[ 🌷 ] Search Menu* 
 yts [query]
 google [query]
@@ -4367,9 +4362,9 @@ var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.f
 Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
 *[ 🌷 ] Scrap Convert* 
 attp
 ttp
@@ -4414,9 +4409,9 @@ var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.f
 Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
 *[ 🌷 ] Cmd Menu* 
 setcmd
 listcmd
@@ -4450,9 +4445,9 @@ var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.f
 Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
 *[ 🌷 ] Download Menu* 
 pinterestdl [url]
 ytmp3 [url]
@@ -4485,9 +4480,9 @@ var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.f
 Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
  *[ 🌷 ] Owner Menu* 
 react [emoji]
 chat [option]
@@ -4540,9 +4535,9 @@ var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.f
 Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
  *[ 🌷 ] Scraper Image* 
 anime
 coffe
@@ -4606,9 +4601,9 @@ var requestPaymentMessage = generateWAMessageFromContent(m.chat, proto.Message.f
 Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
  *[ 🌷 ] Sound Menu* 
 sound1
 sound2
