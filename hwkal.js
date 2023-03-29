@@ -25,7 +25,7 @@ global.botname = '𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒🤡🔥' //ubah jadi 
 global.footer = '𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒🤡🔥' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6285723156229']
+global.owner = ['6287841959988']
 global.packname = '𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒🤡🔥'
 global.ownerr = ['𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒🤡🔥']
 global.author = '𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒🤡🔥'
